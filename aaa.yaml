@@ -1,0 +1,29 @@
+# Hey this is a YAML file.
+my-course: "mlops"
+version: 1.0
+price: 299
+is_public: true
+release_date: 2024-01-01
+pre-enroll: null
+category:
+  - AWS
+  - DevOps
+  - AWS certification
+course_dev: ["murthy", "Ajinkya", "piyush"]
+dev_details: 
+ - name: "murthy"
+   email: "murthy@gmail.com"
+   role: "author"
+ - name: "Kavya"
+   email: "kavya@gmail.com"
+   role: "co-author"
+ - {name: "naviska", email: "navisjka@gmail.com", role: "Finance"}
+
+short_description: >
+This is for aws devops
+professional certification.
+
+detailed_description: |
+This course has benn created
+with the help of industry experts,
+hope you like it.
